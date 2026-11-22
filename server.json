@@ -3,8 +3,24 @@
   "name": "io.github.jtbrazil07-oss/swift-agent-network",
   "title": "Swift Agent Network member directory",
   "description": "Find licensed US local businesses (agents, movers, contractors) matched to the public record.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://swiftagentnetwork.com/",
+  "icons": [
+    {
+      "src": "https://swiftagentnetwork.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    },
+    {
+      "src": "https://swiftagentnetwork.com/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "180x180"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/jtbrazil07-oss/swift-agent-network-mcp",
     "source": "github"
