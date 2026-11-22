@@ -1,5 +1,7 @@
 # Swift Agent Network MCP server
 
+[![mcptry](https://mcptry.com/badge/io.github.jtbrazil07-oss/swift-agent-network)](https://mcptry.com/servers/io.github.jtbrazil07-oss/swift-agent-network)
+
 A read-only MCP server for the [Swift Agent Network](https://swiftagentnetwork.com/) member directory: licensed and registered local businesses in the United States, each matched to a state license file or the FMCSA register. Members include real estate agents, insurance agents, moving companies, bus and limo operators and contractors.
 
 The network lists members. It does not rate or rank them, send messages or make bookings.
