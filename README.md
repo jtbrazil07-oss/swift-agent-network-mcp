@@ -40,4 +40,8 @@ Every member is matched to a public record: a state license file (for example th
 
 `server.json` is the listing for the [official MCP Registry](https://registry.modelcontextprotocol.io). The server itself runs on swiftagentnetwork.com; this repository holds only the listing and this page.
 
+## License
+
+The files in this repository (this page, `server.json` and `glama.json`) are under the [MIT License](LICENSE). The member directory the server returns is not: it is the network's data, served under the terms at [swiftagentnetwork.com](https://swiftagentnetwork.com/).
+
 Questions: mail@swiftagentsites.com
